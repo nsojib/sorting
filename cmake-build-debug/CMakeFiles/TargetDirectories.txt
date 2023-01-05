@@ -1,0 +1,9 @@
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/sorting.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/bubble.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/insertion.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/selection.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/merge.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/quick.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/heap.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/OneDrive - USNH/cxx/code/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
